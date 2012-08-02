@@ -1,0 +1,8 @@
+[
+    {
+        "account":      "TeamDRH",
+        "repository":   "vendor_malata",
+        "target_path":  "vendor/malata",
+        "revision":     "jellybean"
+    }
+]
