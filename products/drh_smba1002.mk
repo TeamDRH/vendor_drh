@@ -15,7 +15,7 @@ $(call inherit-product, device/malata/smba1002/cm.mk)
 
 PRODUCT_NAME := drh_smba1002
 
-GET_VENDOR_PROPS := $(shell vendor/drh/tools/getvendorprops.py $(PRODUCT_NAME))
+GET_PRODUCT_DEPS := $(shell vendor/drh/tools/getdependencies.py $(PRODUCT_NAME))
 
 endif
 
