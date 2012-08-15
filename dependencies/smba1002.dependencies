@@ -3,6 +3,6 @@
    "account":      "TeamDRH",
    "repository":   "android-tegra-nv-2.6.39-rel-14r7",
    "target_path":  "kernel/malata/smba1002",
-   "revision":     "jellybean"
+   "revision":     "master"
  }
 ]
